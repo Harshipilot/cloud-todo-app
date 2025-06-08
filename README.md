@@ -55,6 +55,7 @@ To run the project locally, follow these steps:
     - Create a new project and add the Firebase credentials to your app (either in a config file or environment variables).
     - Set up Firebase Authentication and Realtime Database.
     - download the firebase-key.json from project settings-> service accounts-> select python-> generate key
+    - copy the .json file to the same todo-app directory
 
 5. Run the Flask app locally:
     ```bash
