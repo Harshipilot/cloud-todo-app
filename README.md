@@ -28,9 +28,7 @@ A simple cloud-based to-do app that allows you to store and manage planned activ
 
 ## Demo
 
-[Click here for a live demo!](#)
-
-*Note: Replace this link with an actual demo URL if available.*
+![Image](https://github.com/user-attachments/assets/f27d02e6-ad8f-457e-9ced-0a48dc2b34d4)
 
 ## Installation
 
