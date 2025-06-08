@@ -36,13 +36,13 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/cloud-todo-app.git
+    https://github.com/Harshipilot/cloud-todo-app.git
     cd cloud-todo-app
     ```
 
 2. Install the frontend dependencies (if any):
     ```bash
-    npm install
+    pip install
     ```
 
 3. Install the backend dependencies:
